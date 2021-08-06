@@ -1,2 +1,2 @@
-# first time
-This is my first time using git and github
+# update time
+I think this is my first and last time i think i can update from the web view
